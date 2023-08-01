@@ -1,4 +1,4 @@
-#Arthor: Narendra Singh
+#Author: Jai Kumar
 FROM openjdk:8-jre-alpine
 
 EXPOSE 8080
